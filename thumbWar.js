@@ -1,7 +1,7 @@
 const utils = require("./utils");
 
 function thumWar(player1, player2) {
-  const numberToWin = 3;
+  const numberToWin = 2;
   let player1Wins = 0;
   let player2Wins = 0;
 
