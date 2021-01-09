@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon simple.js"
+    "start": "nodemon -r ./globals.js simple.js"
   },
   "keywords": [],
   "author": "",
